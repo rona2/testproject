@@ -1,0 +1,25 @@
+body {
+    background-color: slategray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+p {
+  color:red;
+  text-align: center;
+}
+.slike {
+  border: 6px black dotted;
+  padding: 50px;
+}
+
+.slike:hover {
+  border: 20px red solid;
+  }
